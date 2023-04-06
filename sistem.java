@@ -131,4 +131,3 @@ public class yemekhaneotomasyon {
 }
 
 
-//TurkHackTeam'den BySciaa adlı kullanınıdan yararlanılmıştır!

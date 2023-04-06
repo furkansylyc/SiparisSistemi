@@ -131,4 +131,4 @@ public class yemekhaneotomasyon {
 }
 
 
-//TurkHackTeam'den BySciaa adlı kullanınıcın yazmış olduğu C projesinin taslak olarak java halidir.
+//TurkHackTeam'den BySciaa adlı kullanınıdan yararlanılmıştır!
